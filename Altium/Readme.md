@@ -1,0 +1,3 @@
+[EN] I don’t think there’s anything missing in my schematic design, but my PCB design definitely has plenty of flaws—and I’m fully aware of it. (Back when I was a student doing DIY PCB fabrication, I couldn’t draw super thin traces and had to use vias sparingly :))
+
+[TR] Şema tasarımımda eksik bir şey olduğunu düşünmüyorum, ancak PCB tasarımımda kesinlikle birçok kusur var ve bunun tamamen farkındayım. (Kendin yap PCB üretimi yapan bir öğrenciyken, çok ince izler çizemezdim ve geçiş noktalarını çok az kullanmak zorunda kalırdım :))
